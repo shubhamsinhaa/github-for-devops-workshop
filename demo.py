@@ -1,5 +1,7 @@
 def my_function():
     print("This is my function")
-    return d
+    return "This is my function"
 
 my_function()
+
+
